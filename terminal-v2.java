@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 ///https://www.oreilly.com/library/view/java-for-dummies/9781118239742/a81_07_9781118239742-ch04.html
 ///https://www.journaldev.com/830/java-delete-file-directory
+///http://www.java2s.com/Code/Java/JDK-7/UsingtheSimpleFileVisitorclasstotraversefilesystems.htm
 class Traverse extends SimpleFileVisitor<Path>
 {
     @Override
